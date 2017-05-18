@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominicporteous/rancher-node.git"
+    "url": "https://github.com/dominicporteous/rancher-node.git"
   },
   "author": "Himanshu Goyal",
   "license": "Apache-2.0",
