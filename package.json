@@ -6,10 +6,6 @@
   "scripts": {
     "test": "lab -a code -L"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dominicporteous/rancher-node.git"
-  },
   "author": "Himanshu Goyal",
   "license": "Apache-2.0",
   "bugs": {
