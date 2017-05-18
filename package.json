@@ -6,12 +6,16 @@
   "scripts": {
     "test": "lab -a code -L"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu28/rancher-node.git"
+  },
   "author": "Himanshu Goyal",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dominicporteous/rancher-node/issues"
+    "url": "https://github.com/himanshu28/rancher-node/issues"
   },
-  "homepage": "https://github.com/dominicporteous/rancher-node#readme",
+  "homepage": "https://github.com/himanshu28/rancher-node#readme",
   "dependencies": {
     "joi": "^7.0.0",
     "request": "2.81.0",
