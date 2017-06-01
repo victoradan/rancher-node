@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/himanshu28/rancher-node#readme",
   "dependencies": {
-    "joi": "^7.0.0",
+    "joi": "^10.5.2",
     "request": "2.81.0"
   },
   "devDependencies": {
-    "code": "^2.0.1",
-    "lab": "^7.3.0"
+    "code": "^4.0.0",
+    "lab": "^13.1.0"
   }
 }
