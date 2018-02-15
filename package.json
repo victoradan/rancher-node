@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mkg20001/rancher-node#readme",
   "dependencies": {
-    "joi": "^10.5.2",
+    "joi": "^13.0.0",
     "request": "2.81.0"
   },
   "devDependencies": {
