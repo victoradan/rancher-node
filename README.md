@@ -6,7 +6,7 @@ Node client for the Rancher API
 An API client is included in this package
 
 ```js
-const Rancher = require('rancher-node');
+const Rancher = require('rancher-client');
 
 const client = new Rancher.Client({ url: 'https://try.rancher.com/v2-beta/projects/XXXXXXXX/', access_key: 'SoMeToKeN', secret_key: 'someSecRetToken' });
 
